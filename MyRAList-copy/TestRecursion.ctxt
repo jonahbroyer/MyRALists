@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestRecursion
+comment0.text=\r\n\ "abcd"\r\n\ a\ concat\ reverse(bcd)\r\n\ \ b\ concat\ reverse(cd)\r\n\ \ \ c\ concat\ reverse(d)\r\n\ \ \ \ d\ \ \=\=>\ c\r\n\ \ dc\ \ \=\=>\ dcb\r\n\ dcb\ \=\=>\ a\r\n\ \r\n\ dcba\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TestRecursion()
+comment2.params=n
+comment2.target=long\ fib(int)
+comment3.params=s
+comment3.target=java.lang.String\ reverse(java.lang.String)
+numComments=4
